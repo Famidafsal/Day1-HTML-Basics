@@ -1,0 +1,18 @@
+a{
+    color: blue;
+    text-decoration: none;
+}
+#inp1{
+    background-color: brown;
+}
+p{
+    color: blueviolet;
+    font-size: larger;
+    background-color: bisque;
+}
+.grp1{
+    background-color: aqua;
+    border: 2px solid rgb(146, 30, 30);
+    margin: 5% 30% 2% 20%;
+    padding: 10px 30px 10px 50px;
+}
